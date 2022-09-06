@@ -1,0 +1,2 @@
+#Esta es la ubicacion correcta para q mi html se idente
+~/.config/nvim/after
