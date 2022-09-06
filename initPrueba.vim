@@ -236,3 +236,4 @@ augroup NeoformatAutoFormat
     autocmd BufWritePre *.ts,*.js,*.jsx Neoformat
 augroup END
 
+nnoremap <silent> <F2> :CocCommand explorer<CR>
