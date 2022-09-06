@@ -1,2 +1,0 @@
-Java: 
-https://github.com/seudev/vscode-java-snippets.git
