@@ -60,7 +60,6 @@ Plug 'christoomey/vim-tmux-navigator'   "poder navegar entreeararchivos abiertos
 
 "Autocomplementado
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'aca/completion-tabnine', { 'do': 'version=3.1.9 ./install.sh' }
 
 "TERMINAL
 Plug 'erietz/vim-terminator', { 'branch': 'main'} "ejecutar codigo de lenguajes de progra
